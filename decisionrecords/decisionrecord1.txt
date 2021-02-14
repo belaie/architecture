@@ -1,0 +1,17 @@
+# 1. We would never build forms in the netiq idm on premise
+
+Date: 01.01.2021
+
+
+## Status 
+
+Approved
+
+## Context 
+Self service group provisioning
+
+## Decision
+Use cloud based tools
+
+## Consequencess
+Will lose tight intgeration with idm and workflow forms and user based security and context.
